@@ -13,13 +13,10 @@
 
 <!-- | -->
 
-<!-- Week 01</br>(22.02.27.) |                                                 ✅                                                 |                                                   ✅                                                   |                                                   ✅                                                   |                                                 ✅                                                 |        | -->
+<br>
 
-| 업로드 횟수 |      표기      |
-| :---------: | :------------: |
-| 10문제 이상 |       ✅       |
-|   1~9문제   |    1️⃣ ~ 9️⃣     |
-|    0문제    | ❌ <br/>(사유) |
+## 📍 Study Journal Record -> Issues Reference
+[Week01 Study Journal](https://github.com/khakaa/algorithm-study/issues/67) 
 
 <br>
 
