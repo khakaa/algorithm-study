@@ -1,7 +1,7 @@
 # Algorithm Study📝
 
-- 매주 일요일 23시 59분까지 <b>평일 최소 하루에 두 문제</b> 이상을 풀이하여 업로드합니다.</br>
-- 월요일에 main에 합치기!
+- 매주 일요일 23시 59분까지 <b>노션에서 정한 목표만큼</b> 풀이하여 업로드합니다.</br>
+- 월요일 회의시간에 main에 합치기!
   <br><br/>
 
 ## 📍 Progress Record
@@ -13,13 +13,10 @@
 
 <!-- | -->
 
-<!-- Week 01</br>(22.02.27.) |                                                 ✅                                                 |                                                   ✅                                                   |                                                   ✅                                                   |                                                 ✅                                                 |        | -->
+<br>
 
-| 업로드 횟수 |      표기      |
-| :---------: | :------------: |
-| 10문제 이상 |       ✅       |
-|   1~9문제   |    1️⃣ ~ 9️⃣     |
-|    0문제    | ❌ <br/>(사유) |
+## 📍 Study Journal Record -> Issues Reference
+[Week01 Study Journal](https://github.com/khakaa/algorithm-study/issues/67) 
 
 <br>
 
