@@ -1,25 +1,22 @@
 # Algorithm Study📝
 
-- 매주 일요일 23시 59분까지 <b>평일 최소 하루에 두 문제</b> 이상을 풀이하여 업로드합니다.</br>
-- 월요일에 main에 합치기!
+- 매주 일요일 23시 59분까지 <b>노션에서 정한 목표만큼</b> 풀이하여 업로드합니다.</br>
+- 월요일 회의시간에 main에 합치기!
   <br><br/>
 
 ## 📍 Progress Record
 
-|          |                                                 김덕룡                                                 |                                                 정제헌                                                 |                                                 박하린                                                 |                                                 정원지                                                 |                                                 신주희                                                 |                                                 임성준                                                 |
+|          |                                                 김덕룡                                                 |                                                 정제헌                                                 |                                                 박하린                                                 |                                                 정원지                                                 |                                                 조익준                                                 |                                                 임성준                                                 |
 | :------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|  GitHub  |                              [zjavbxj523](https://github.com/zjavbxj523)                               |                                [jeheonee](https://github.com/jeheonee)                                 |                                  [khakaa](https://github.com/khakaa)                                   |                              [JeongWonji](https://github.com/JeongWonji)                               |                             [rattadduhee](https://github.com/rattadduhee)                              |                            [Lim-SeongJun](https://github.com/Lim-SeongJun)                             |
+|  GitHub  |                              [zjavbxj523](https://github.com/zjavbxj523)                               |                                [jeheonee](https://github.com/jeheonee)                                 |                                  [khakaa](https://github.com/khakaa)                                   |                              [JeongWonji](https://github.com/JeongWonji)                               |                             [harry7435](https://github.com/harry7435)                              |                            [Lim-SeongJun](https://github.com/Lim-SeongJun)                             |
 | Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
 
 <!-- | -->
 
-<!-- Week 01</br>(22.02.27.) |                                                 ✅                                                 |                                                   ✅                                                   |                                                   ✅                                                   |                                                 ✅                                                 |        | -->
+<br>
 
-| 업로드 횟수 |      표기      |
-| :---------: | :------------: |
-| 10문제 이상 |       ✅       |
-|   1~9문제   |    1️⃣ ~ 9️⃣     |
-|    0문제    | ❌ <br/>(사유) |
+## 📍 Study Journal Record -> Issues Reference
+[Week01 Study Journal](https://github.com/khakaa/algorithm-study/issues/67) 
 
 <br>
 
