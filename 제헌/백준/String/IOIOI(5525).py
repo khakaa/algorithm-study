@@ -29,7 +29,7 @@ while left < m - 1:
             cnt += 1
         
         left += 2
-        
+
     else:
         left += 1
         flag = 0
