@@ -5,7 +5,7 @@ dy = [0,1,0,-1]
 n, m = map(int, input().split(' '))
 r, c, d = map(int, input().split(' '))
 area = []
-visited = [[0 for _ in range(n)] for _ in range(m)]
+visited = [[0 for _ in range(m)] for _ in range(n)]
 
 for _ in range(n):
     area.append(list(map(int, input().split(' '))))
@@ -30,8 +30,12 @@ while 1:
                 flag = 1 # 청소
                 break
     
-    # 네 방향 모두 청소 되있거나 벽임
+    # 네 방향 모두 청소
     if flag == 0:
         # 후진했을 때 벽
         if area[r-dx[d]][c-dy[d]] == 1:
-        
+            print(cnt)
+            break
+        # 벽 아니면 후진 후 다시 탐색
+        else:
+            r, c = r-dx[d], c-dy[d]
