@@ -16,7 +16,8 @@
 <br>
 
 ## 📍 Study Journal Record -> Issues Reference
-[Week01 Study Journal](https://github.com/khakaa/algorithm-study/issues/67) 
+[Week01 Study Journal](https://github.com/khakaa/algorithm-study/issues/67)
+[Week02 Study Journal](https://github.com/khakaa/algorithm-study/issues/127)
 
 <br>
 
