@@ -19,7 +19,8 @@
 [Week01 Study Journal](https://github.com/khakaa/algorithm-study/issues/67) <br>
 [Week02 Study Journal](https://github.com/khakaa/algorithm-study/issues/127) <br>
 [Week03 Study Journal](https://github.com/khakaa/algorithm-study/issues/128) <br>
-[Week04 Study Journal](https://github.com/khakaa/algorithm-study/issues/145)
+[Week04 Study Journal](https://github.com/khakaa/algorithm-study/issues/145) <br>
+[Week05 Study Journal](https://github.com/khakaa/algorithm-study/issues/154)
 
 <br>
 
