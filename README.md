@@ -22,6 +22,7 @@
 [Week04 Study Journal](https://github.com/khakaa/algorithm-study/issues/145) <br>
 [Week05 Study Journal](https://github.com/khakaa/algorithm-study/issues/154) <br>
 [Week06 Study Journal](https://github.com/khakaa/algorithm-study/issues/164) <br>
+[Week07 Study Journal](https://github.com/khakaa/algorithm-study/issues/167) <br>
 
 ## 📍 Commit Message Convention
 
