@@ -20,9 +20,9 @@
 [Week02 Study Journal](https://github.com/khakaa/algorithm-study/issues/127) <br>
 [Week03 Study Journal](https://github.com/khakaa/algorithm-study/issues/128) <br>
 [Week04 Study Journal](https://github.com/khakaa/algorithm-study/issues/145) <br>
-[Week05 Study Journal](https://github.com/khakaa/algorithm-study/issues/154)
-
-<br>
+[Week05 Study Journal](https://github.com/khakaa/algorithm-study/issues/154) <br>
+[Week06 Study Journal](https://github.com/khakaa/algorithm-study/issues/164) <br>
+[Week07 Study Journal](https://github.com/khakaa/algorithm-study/issues/167) <br>
 
 ## 📍 Commit Message Convention
 
@@ -39,4 +39,4 @@
 
 ## 📍 Reference Site
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://www.notion.so/d5b7a30c287e4107be484a04f72c0bc4?v=8cebd4372b8f4a7aa66133c743b91003"><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://voracious-snowboard-879.notion.site/33f48411f4dd4160bfcc433ad9cb1cfe?v=13119a15bbb44b678dcf53a6212646e0"><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
