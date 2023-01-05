@@ -4,7 +4,6 @@ input = sys.stdin.readline
 
 M,N,K = map(int,input().split())
 
-
 graph = []
 for i in range(M):
     graph.append([0] * N)
@@ -17,10 +16,7 @@ for i in range(K):
     for j in range(M-y2,M-y1):
         for k in range(x1,x2):
             graph[j][k] = 1
-# for i in range(M):
-#     for j in range(N):
-#         print(graph[i][j],end=" ")
-#     print()
+
 dx = [0,0,-1,1]
 dy = [1,-1,0,0]
 
